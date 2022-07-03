@@ -9,9 +9,6 @@ formas:
 - Sequencial 
 - Concorrente
 
-### Arquivos de cabelaçho locais: /headers
-### Arquivo fonte em C: /src
-
 Como compilar e executar:
 > make | ./main
 
